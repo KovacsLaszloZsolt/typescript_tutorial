@@ -1,1 +1,1 @@
-# typescript_tutorial
+# typescript_tutorial - The Net Ninja
